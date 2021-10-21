@@ -9,6 +9,7 @@
  - Support Vector Machine
  - K Nearest Neighbours 
  - Decision Tree
+ - Random Forest
 
  
   
