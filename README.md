@@ -9,7 +9,7 @@
  - Plotly
  Here different machine algorithm has been tested to veiw the most efficient algorithm for the model selection.
  The machine learning algorithm involved here include:
- - Linear Regression
+ - Logistic Regression
  - Support Vector Machine
  - K Nearest Neighbours 
  - Decision Tree
