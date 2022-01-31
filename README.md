@@ -11,7 +11,7 @@
  The machine learning algorithm involved here include:
  - Logistic Regression
  - Support Vector Machine
- - K Nearest Neighbours 
+ - K Nearest Neighbors 
  - Decision Tree
  - Random Forest
 
